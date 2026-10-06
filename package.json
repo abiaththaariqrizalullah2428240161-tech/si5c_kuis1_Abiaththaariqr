@@ -1,0 +1,19 @@
+{
+  "name": "si5c_kuis1_abiaththaariq",
+  "version": "1.0.0",
+  "description": "Refactor RESTful API Tugas 1 - Motorcycles",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": ["express", "restful-api"],
+  "author": "Abi Ath Thaariq Rizalullah",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
